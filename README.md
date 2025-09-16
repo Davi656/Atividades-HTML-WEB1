@@ -1,3 +1,13 @@
+# 🌐 Atividades da disciplina Web 1
+
+Este repositório reúne os links para as atividades desenvolvidas na disciplina **Desenvolvimento Web 1 (Web1)**, ministrada pelo professor **Thomaz Maia** no **IFCE - Campus Maranguape**.
+
+👤 Meu nome é **Davi**  
+🎓 Estou cursando o **2º semestre do 2º ano**  
+💻 Todas as atividades foram desenvolvidas utilizando **HTML**
+
+---
+
 ## 📄 Lista de Atividades
 
 | Atividade   | 🔗 Código (`index.html`)                                                 | 🌐 Acesse o site                                           |
@@ -16,3 +26,16 @@
 | Atividade12 | [index.html](https://github.com/Davi656/Atividade12/blob/main/index.html) | [Ver site](https://davi656.github.io/Atividade12/)         |
 | Atividade13 | [index.html](https://github.com/Davi656/Atividade13/blob/main/index.html) | [Ver site](https://davi656.github.io/Atividade13/)         |
 | Atividade14 | [index.html](https://github.com/Davi656/Atividade14/blob/main/index.html) | [Ver site](https://davi656.github.io/Atividade14/)         |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5    
+
+---
+
+## 📬 Contato
+
+Você pode me encontrar no GitHub: [Davi656](https://github.com/Davi656)
+
